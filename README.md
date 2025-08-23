@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=auto&section=header&text=yeon-yeon1%20github&fontSize=auto)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=auto&section=header&text=yeon-yeon1%20github&fontSize=auto)
 
 ## Introduction
 #### 덕성여자대학교 디지털소프트웨어공학부 노진경
