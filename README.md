@@ -1,4 +1,6 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=auto&section=header&text=yeon-yeon1%20github&fontSize=auto)
+
 ## Introduction
 #### 덕성여자대학교 디지털소프트웨어공학부 노진경
 📍 2024 멋쟁이사자처럼 12기 아기사자 (FE) <br>
@@ -17,3 +19,5 @@
 ## Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-yeon1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon-yeon1&show_icons=true&theme=radical)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon-yeon1)](https://solved.ac/yeon-yeon1)
