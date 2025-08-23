@@ -20,4 +20,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-yeon1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon-yeon1&show_icons=true&theme=radical)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon-yeon1)](https://solved.ac/yeon-yeon1)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon_yeon1)](https://solved.ac/yeon_yeon1)
