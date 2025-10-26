@@ -22,7 +22,7 @@
 <br>
 
 ## Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjdbsdk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjdbsdk&theme=radical\&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon-yeon1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-yeon1&theme=radical\&layout=compact)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon_yeon1)](https://solved.ac/yeon_yeon1)
