@@ -25,3 +25,7 @@
 ## Github
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon_yeon1)](https://solved.ac/yeon_yeon1)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeon-yeon1&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/yeon-yeon1)
+
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yeon-yeon1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/yeon-yeon1)
