@@ -64,6 +64,7 @@
 
 | 월 | 프로젝트 | 설명 | 기술 | 수상 |
 |:---:|---|---|---|---|
+| 08 | [**Boogle Quiz**](https://boogle-quiz.vercel.app) | 얼굴 인식 기반 Boogle 파생 키오스크 서비스 | <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="30" alt="Next.js, TypeScript, Tailwind CSS"> <img src="https://api.iconify.design/devicon:framermotion.svg" width="30" height="30" alt="Framer Motion"><img src="https://api.iconify.design/simple-icons:mediapipe.svg?color=%23009688" width="30" height="30" alt="MediaPipe"> |  |
 | 07 | [**Naegigo**](Naegigo_링크) | 친구들과 목표 달성 여부와 벌칙을 관리하는 인증 서비스 | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nestjs,ts,aws" height="30" alt="Next.js, Tailwind CSS, NestJS, TypeScript, AWS"> |  |
 | 06 | [**Boogle**](Boogle_링크) | 배변 기록을 분석해 장 건강 리포트를 제공하는 서비스 | <img src="https://skillicons.dev/icons?i=nestjs,ts,aws" height="30" alt="NestJS, TypeScript, AWS"> | 🥈 UMC 최우수상(2등) |
 | 06 | [**그린체크**](그린체크_링크) | 탄소·에너지 관리 플랫폼 | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nestjs,ts,aws" height="30" alt="Next.js, Tailwind CSS, NestJS, TypeScript, AWS"> | 🥇 HUSS 최우수상(1등) |
