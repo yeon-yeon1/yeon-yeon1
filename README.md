@@ -44,6 +44,10 @@
 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 
+### AI
+
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/ByteTrack-2F80ED?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/LAP-555555?style=flat-square&logoColor=white">
+
 ### Infra & Deployment
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white"> <img src="https://img.shields.io/badge/Uvicorn-4051B5?style=flat-square&logo=gunicorn&logoColor=white"> <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
@@ -64,7 +68,7 @@
 
 | 월 | 프로젝트 | 설명 | 기술 | 수상 |
 |:---:|---|---|---|---|
-| 08 | [**Boogle Quiz**](https://boogle-quiz.vercel.app) | 얼굴 인식 기반 Boogle 파생 키오스크 서비스 | <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="30" alt="Next.js, TypeScript, Tailwind CSS"> <img src="https://api.iconify.design/devicon:framermotion.svg" width="30" height="30" alt="Framer Motion"><img src="https://api.iconify.design/simple-icons:mediapipe.svg?color=%23009688" width="30" height="30" alt="MediaPipe"> |  |
+| 08 | [**Boogle Quiz**](https://boogle-quiz.vercel.app) | 얼굴 인식 기반 Boogle 파생 키오스크 서비스 | <img src="https://api.iconify.design/devicon:framermotion.svg" width="30" height="30" alt="Framer Motion"><img src="https://api.iconify.design/simple-icons:mediapipe.svg?color=%23009688" width="30" height="30" alt="MediaPipe"> <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="30" alt="Next.js, TypeScript, Tailwind CSS"> |  |
 | 07 | [**Naegigo**](Naegigo_링크) | 친구들과 목표 달성 여부와 벌칙을 관리하는 인증 서비스 | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nestjs,ts,aws" height="30" alt="Next.js, Tailwind CSS, NestJS, TypeScript, AWS"> |  |
 | 06 | [**Boogle**](Boogle_링크) | 배변 기록을 분석해 장 건강 리포트를 제공하는 서비스 | <img src="https://skillicons.dev/icons?i=nestjs,ts,aws" height="30" alt="NestJS, TypeScript, AWS"> | 🥈 UMC 최우수상(2등) |
 | 06 | [**그린체크**](그린체크_링크) | 탄소·에너지 관리 플랫폼 | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nestjs,ts,aws" height="30" alt="Next.js, Tailwind CSS, NestJS, TypeScript, AWS"> | 🥇 HUSS 최우수상(1등) |
