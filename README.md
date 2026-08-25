@@ -90,7 +90,7 @@
 | 월 | 프로젝트 | 설명 | 기술 | 수상 |
 |:---:|---|---|---|---|
 | 11 | [**한글정복**](한글정복_링크) | 한국어 시험 대비 게임형 퀴즈 서비스 | <img src="https://skillicons.dev/icons?i=react,js,styledcomponents" height="30" alt="React, JavaScript, Styled Components"> | 🥇 우수상(1등) |
-| 09 | [**NOTE School**](NOTE_School_링크) | 학습 자료를 AI로 요약·정리하는 학습 보조 앱 | — | 🥉 창업아이템 경진대회 동상(3등) |
+| 09 | [**NOTE School**](NOTE_School_링크) | 학습 자료를 AI로 요약·정리하는 학습 보조 앱 | <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma">  | 🥉 창업아이템 경진대회 동상(3등) |
 | 07 | [**SafeD**](SafeD_링크) | 운전 관련 게임 및 팁 제공 서비스 | <img src="https://skillicons.dev/icons?i=html,css,js" height="30" alt="HTML, CSS, JavaScript"> |  |
 | 06 | [**MBTI별 공부법**](MBTI별_공부법_링크) | 문제 해결 프로그래밍 기말 프로젝트 | <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python">&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B?v=2" width="30" height="30" alt="Streamlit"> |  |
 | 05 | [**MIRE**](MIRE_링크) | 대학생 특화 기록 웹사이트 | <img src="https://skillicons.dev/icons?i=react,js,express" height="30" alt="React, JavaScript, Express"> | 🥇 대상(1등) |
