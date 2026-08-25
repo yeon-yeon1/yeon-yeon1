@@ -8,7 +8,8 @@
 2026
 ├─ 07  🏢 Pixion · Software Engineer 
 ├─ 03  🦖 UMC 10기 Node.js (BE)
-└─ 02  🌐 UMC 10기 Web 파트장 (FE)
+├─ 02  🌐 UMC 10기 Web 파트장 (FE)
+└─ 01  🤖 EIC Lab · Undergraduate Researcher (AIoT)
 
 2025
 ├─ 09  🖥️ IT미디어공학전공 제60회 졸업전시회 웹사이트 TF (FE)
