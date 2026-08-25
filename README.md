@@ -67,38 +67,38 @@
 ### 2026
 
 | 월 | 프로젝트 | 설명 | 기술 | 수상 |
-|:---:|---|---|---|---|
+|:---:|---|---|---|:---:|
 | 08 | [**Boogle Quiz**](https://boogle-quiz.vercel.app) | 얼굴 인식 기반 Boogle 파생 키오스크 서비스 | <img src="https://api.iconify.design/devicon:framermotion.svg" width="30" height="30" alt="Framer Motion"><img src="https://api.iconify.design/simple-icons:mediapipe.svg?color=%23009688" width="30" height="30" alt="MediaPipe"> <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="30" alt="Next.js, TypeScript, Tailwind CSS"> |  |
 | 07 | [**Naegigo**](Naegigo_링크) | 친구들과 목표 달성 여부와 벌칙을 관리하는 인증 서비스 | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nestjs,ts,aws" height="30" alt="Next.js, Tailwind CSS, NestJS, TypeScript, AWS"> |  |
-| 06 | [**Boogle**](Boogle_링크) | 배변 기록을 분석해 장 건강 리포트를 제공하는 서비스 | <img src="https://skillicons.dev/icons?i=nestjs,ts,aws" height="30" alt="NestJS, TypeScript, AWS"> | 🥈 UMC 최우수상(2등) |
-| 06 | [**그린체크**](그린체크_링크) | 탄소·에너지 관리 플랫폼 | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nestjs,ts,aws" height="30" alt="Next.js, Tailwind CSS, NestJS, TypeScript, AWS"> | 🥇 HUSS 최우수상(1등) |
+| 06 | [**Boogle**](Boogle_링크) | 배변 기록을 분석해 장 건강 리포트를 제공하는 서비스 | <img src="https://skillicons.dev/icons?i=nestjs,ts,aws" height="30" alt="NestJS, TypeScript, AWS"> | 🥈 UMC 최우수상<br/>(2등) |
+| 06 | [**그린체크**](그린체크_링크) | 탄소·에너지 관리 플랫폼 | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nestjs,ts,aws" height="30" alt="Next.js, Tailwind CSS, NestJS, TypeScript, AWS"> | 🥇 HUSS 최우수상<br/>(1등) |
 | 03 | [**Ebook-i**](Ebook-i_링크) | 독서 경험 공유 플랫폼 | <img src="https://skillicons.dev/icons?i=react,js,styledcomponents" height="30" alt="React, JavaScript, Styled Components"> |  |
 | 02 | [**Map in Duksung**](https://www.duksung-map.site) | 덕성여대 교내 지도 서비스 | <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="30" alt="React, TypeScript, Tailwind CSS"> |  |
 
 ### 2025
 
 | 월 | 프로젝트 | 설명 | 기술 | 수상 |
-|:---:|---|---|---|---|
+|:---:|---|---|---|:---:|
 | 12 | [**SeatFlow**](SeatFlow_링크) | 혼잡도 기반 가게 방문 결정 서비스 | <img src="https://skillicons.dev/icons?i=html,tailwind,js,django" height="30" alt="HTML, Tailwind CSS, JavaScript, Django"> |  |
 | 09 | [**IT미디어공학전공 졸업전시회**](https://www.2025-dswu-itmedia.site) | 제60회 졸업전시회 웹사이트 | <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="30" alt="React, TypeScript, Tailwind CSS"> |  |
 | 07 | [**Buy-Dobong**](Buy-Dobong_링크) | 음성 UX 기반 특가 정보 플랫폼 | <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="30" alt="React, TypeScript, Tailwind CSS"> |  |
 | 05 | [**디지털교육공학센터 사이트**](디지털교육공학센터_링크) | 디지털교육공학센터 공식 웹사이트 | <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="30" alt="React, TypeScript, Tailwind CSS"> |  |
-| 05 | [**MYworkHER**](MYworkHER_링크) | 여성 전문가 매칭 플랫폼 | <img src="https://skillicons.dev/icons?i=html,css,js" height="30" alt="HTML, CSS, JavaScript"> | 🥉 여기톤 특별상(3등) |
+| 05 | [**MYworkHER**](MYworkHER_링크) | 여성 전문가 매칭 플랫폼 | <img src="https://skillicons.dev/icons?i=html,css,js" height="30" alt="HTML, CSS, JavaScript"> | 🥉 여기톤 특별상<br/>(3등) |
 | 04 | [**근화제 <여운> 사이트**](https://2025-ds-fest-fe.vercel.app) | 덕성여대 근화제 웹사이트 | <img src="https://skillicons.dev/icons?i=react,js,styledcomponents" height="30" alt="React, JavaScript, Styled Components"> |  |
 | 03 | [**단과대 학생회 타로 앱**](타로앱_링크) | 교내 행사 타로 서비스 | <img src="https://skillicons.dev/icons?i=react,js,styledcomponents" height="30" alt="React Native, JavaScript, Styled Components"> |  |
 | 03 | [**자기소개 페이지 웹**](자기소개_링크) | 개인 소개 웹페이지 | <img src="https://skillicons.dev/icons?i=react,js" height="30" alt="React, JavaScript"> |  |
-| 01 | [**멍로깅**](멍로깅_링크) | 반려견과 함께하는 친환경 플로깅 서비스 | <img src="https://skillicons.dev/icons?i=react,js,styledcomponents" height="30" alt="React, JavaScript, Styled Components"> | 🥈 트렌디톤 최우수상(2등) |
+| 01 | [**멍로깅**](멍로깅_링크) | 반려견과 함께하는 친환경 플로깅 서비스 | <img src="https://skillicons.dev/icons?i=react,js,styledcomponents" height="30" alt="React, JavaScript, Styled Components"> | 🥈 트렌디톤 최우수상<br/>(2등) |
 | 01 | [**13기 덕성 멋사 사이트**](멋사13기_링크) | 멋쟁이사자처럼 13기 공식 사이트 | <img src="https://skillicons.dev/icons?i=react,js,styledcomponents" height="30" alt="React, JavaScript, Styled Components"> |  |
 
 ### 2024
 
 | 월 | 프로젝트 | 설명 | 기술 | 수상 |
-|:---:|---|---|---|---|
-| 11 | [**한글정복**](한글정복_링크) | 한국어 시험 대비 게임형 퀴즈 서비스 | <img src="https://skillicons.dev/icons?i=react,js,styledcomponents" height="30" alt="React, JavaScript, Styled Components"> | 🥇 우수상(1등) |
-| 09 | [**NOTE School**](NOTE_School_링크) | 학습 자료를 AI로 요약·정리하는 학습 보조 앱 | <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma">  | 🥉 창업아이템 경진대회 동상(3등) |
+|:---:|---|---|---|:---:|
+| 11 | [**한글정복**](한글정복_링크) | 한국어 시험 대비 게임형 퀴즈 서비스 | <img src="https://skillicons.dev/icons?i=react,js,styledcomponents" height="30" alt="React, JavaScript, Styled Components"> | 🥇 우수상<br/>(1등) |
+| 09 | [**NOTE School**](NOTE_School_링크) | 학습 자료를 AI로 요약·정리하는 학습 보조 앱 | <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma">  | 🥉 창업아이템 경진대회 동상<br/>(3등) |
 | 07 | [**SafeD**](SafeD_링크) | 운전 관련 게임 및 팁 제공 서비스 | <img src="https://skillicons.dev/icons?i=html,css,js" height="30" alt="HTML, CSS, JavaScript"> |  |
 | 06 | [**MBTI별 공부법**](MBTI별_공부법_링크) | 문제 해결 프로그래밍 기말 프로젝트 | <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python">&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B?v=2" width="30" height="30" alt="Streamlit"> |  |
-| 05 | [**MIRE**](MIRE_링크) | 대학생 특화 기록 웹사이트 | <img src="https://skillicons.dev/icons?i=react,js,express" height="30" alt="React, JavaScript, Express"> | 🥇 대상(1등) |
+| 05 | [**MIRE**](MIRE_링크) | 대학생 특화 기록 웹사이트 | <img src="https://skillicons.dev/icons?i=react,js,express" height="30" alt="React, JavaScript, Express"> | 🥇 대상<br/>(1등) |
 
 ## Contact
 
