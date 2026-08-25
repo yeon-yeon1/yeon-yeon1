@@ -74,7 +74,7 @@
 
 | 월 | 프로젝트 | 설명 | 기술 | 수상 |
 |:---:|---|---|---|---|
-| 12 | [**SeatFlow**](SeatFlow_링크) | 혼잡도 기반 가게 방문 결정 서비스 | <img src="https://skillicons.dev/icons?i=html,js,tailwind,django" height="30" alt="HTML, JavaScript, Tailwind CSS, Django"> |  |
+| 12 | [**SeatFlow**](SeatFlow_링크) | 혼잡도 기반 가게 방문 결정 서비스 | <img src="https://skillicons.dev/icons?i=html,tailwind,js,django" height="30" alt="HTML, Tailwind CSS, JavaScript, Django"> |  |
 | 09 | [**IT미디어공학전공 졸업전시회**](https://www.2025-dswu-itmedia.site) | 제60회 졸업전시회 웹사이트 | <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="30" alt="React, TypeScript, Tailwind CSS"> |  |
 | 07 | [**Buy-Dobong**](Buy-Dobong_링크) | 음성 UX 기반 특가 정보 플랫폼 | <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="30" alt="React, TypeScript, Tailwind CSS"> |  |
 | 05 | [**디지털교육공학센터 사이트**](디지털교육공학센터_링크) | 디지털교육공학센터 공식 웹사이트 | <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="30" alt="React, TypeScript, Tailwind CSS"> |  |
